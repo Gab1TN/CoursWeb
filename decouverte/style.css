@@ -1,0 +1,29 @@
+.red {
+  color: red;
+  font-family: Arial;
+}
+
+.blue {
+  color: blue;
+  font-family: Arial;
+}
+
+.green {
+  color: green;
+  font-family: Arial;
+}
+
+.bgred {
+  background-color: red;
+  font-family: monospace;
+}
+
+.bgblue {
+  background-color: blue;
+  font-family: monospace;
+}
+
+.bggreen {
+  background-color: green;
+  font-family: monospace;
+}
